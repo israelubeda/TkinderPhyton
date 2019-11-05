@@ -1,2 +1,2 @@
-# TkinderPhyton
-Practica de Tkinder
+# TkinterPhyton
+Practica de Tkinter
